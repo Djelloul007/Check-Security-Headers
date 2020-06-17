@@ -20,4 +20,4 @@ src
 
 ```
 
-### Adding the Cucumber 4 dependency
+The list of security headers to be checked is in the check_security_headers.feature file.
