@@ -4,19 +4,7 @@ This tutorial show you how to Check Security Headers using Serenity BDD.
 
 ## Get the code
 
-Git:
 
-    git clone https://github.com/serenity-bdd/serenity-rest-starter.git
-    cd serenity-rest-starter
-
-
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-repository-starter/archive/master.zip) file.
-
-## The starter project
-The best place to start with Serenity and Cucumber is to clone or download the starter project on Github ([https://github.com/serenity-bdd/serenity-rest-starter](https://github.com/serenity-bdd/rest-cucumber4-starter)). 
-This project gives you a basic project setup, along with some sample tests and supporting classes. 
-The starter project comes bundled with a sample SpringBoot web service, and some RestAssured-based tests. 
-The project also illustrates how you might use Freemarker to prepare test data for your scenarios.
 
 ### The project directory structure
 The project has build scripts for both Maven and Gradle, and follows the standard directory structure used in most Serenity projects:
