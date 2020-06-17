@@ -27,9 +27,7 @@ src
     + java                                Test runners and supporting code
     + resources
       + features                          Feature files 
-          + status
-          + trades
-             record_a_new_trade.feature 
+        check_security_headers.feature 
       + templates                         Freemarker templates and properties files                
 
 ```
