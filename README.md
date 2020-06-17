@@ -20,9 +20,9 @@ src
 
 ```
 
-The list of security headers to be checked is in the check_security_headers.feature file.
+## The list of security headers to be checked is in the check_security_headers.feature file.
 
-Feature: Security Headers
+### Feature: Security Headers
 
 
   ### Scenario Outline: Check Security Headers
